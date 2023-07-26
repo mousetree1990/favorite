@@ -1,0 +1,118 @@
+
+
+
+ .div1{
+    position: absolute;
+ }
+ .pic1{
+    width: 1890px;
+    position: absolute;
+ }
+ .div2{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 850px;
+    height: 300px;
+    display: inline-block;
+ }
+ .button1{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(70, 70, 70);
+    top: 200px;
+    left: 877px;
+    position: fixed;
+    border-radius: 13px;
+    border-left: rgb(143, 145, 146);
+    border-width: 3px;
+    cursor: pointer;
+    opacity: 0.8;
+    font-family: fantasy;
+    font-size: 30px;
+ }
+ .button1:hover{
+    background-color: aliceblue;
+    transition: 0.7s;
+    box-shadow: 0 25px 50px rgb(152, 152, 165);
+ }
+ .button2{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(70, 70, 70);
+    top: 300px;
+    left: 877px;
+    position: fixed;
+    border-radius: 13px;
+    border-left: rgb(143, 145, 146);
+    border-width: 3px;
+    cursor: pointer;
+    opacity: 0.8;
+    font-family: fantasy;
+    font-size: 30px;
+ }
+ .button2:hover{
+    background-color: aliceblue;
+    transition: 0.7s;
+    box-shadow: 0 25px 50px rgb(152, 152, 165);
+ }
+ .button3{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(70, 70, 70);
+    top: 400px;
+    left: 877px;
+    position: fixed;
+    border-radius: 13px;
+    border-left: rgb(143, 145, 146);
+    border-width: 3px;
+    cursor: pointer;
+    opacity: 0.8;
+    font-family: fantasy;
+    font-size: 30px;
+ }
+ .button3:hover{
+    background-color: aliceblue;
+    transition: 0.7s;
+    box-shadow: 0 25px 50px rgb(152, 152, 165);
+ }
+ .button4{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(70, 70, 70);
+    top: 500px;
+    left: 877px;
+    position: fixed;
+    border-radius: 13px;
+    border-left: rgb(143, 145, 146);
+    border-width: 3px;
+    cursor: pointer;
+    opacity: 0.8;
+    font-family: fantasy;
+    font-size: 30px;
+ }
+ .button4:hover{
+    background-color: aliceblue;
+    transition: 0.7s;
+    box-shadow: 0 25px 50px rgb(152, 152, 165);
+ }
+ .button5{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(70, 70, 70);
+    top: 600px;
+    left: 877px;
+    position: fixed;
+    border-radius: 13px;
+    border-left: rgb(143, 145, 146);
+    border-width: 3px;
+    cursor: pointer;
+    opacity: 0.8;
+    font-family: fantasy;
+    font-size: 27px;
+ }
+ .button5:hover{
+    background-color: aliceblue;
+    transition: 0.7s;
+    box-shadow: 0 25px 50px rgb(152, 152, 165);
+ }
